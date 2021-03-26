@@ -7,7 +7,7 @@ In this Repository you can find the Data-Analysis for the Astrophysics Journal C
 ![image](https://user-images.githubusercontent.com/81431176/112676905-55f8a180-8e69-11eb-98a7-4569bc0a3b16.png)
 
 
-## meeting Duration
+## Meeting Duration
 
 ![image](https://user-images.githubusercontent.com/81431176/112676967-6c9ef880-8e69-11eb-8063-a8eb9300e57d.png)
 
