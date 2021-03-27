@@ -1,6 +1,6 @@
 
-# Analysis-AJC
-In this Repository you can find the Data and the Analysis for the Astrophysics Journal Club Meetings for the Academic year 2020/2021.
+# Analysis
+In this Repository you can find the Data and the Analysis for the Sapienza Astrophysics Journal Club Meetings, Academic year 2020/2021.
 
 ## Audience enjoing the meetings
 
