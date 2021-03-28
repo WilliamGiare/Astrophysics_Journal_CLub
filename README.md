@@ -10,7 +10,7 @@ In this Repository you can find an Analysis of the data collecting during the Sa
 
 ![image](https://user-images.githubusercontent.com/81431176/112676967-6c9ef880-8e69-11eb-8063-a8eb9300e57d.png)
 
-## Academics vs PhD
+### Academics vs PhD
 
 ![image](https://user-images.githubusercontent.com/81431176/112677014-7c1e4180-8e69-11eb-806f-0a0809f9e400.png)
 
