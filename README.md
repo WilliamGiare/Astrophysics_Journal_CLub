@@ -1,6 +1,6 @@
 
 # Analysis
-In this Repository you can find an Analysis of the data collectied during the Sapienza Astrophysics Journal Club Meetings, Academic year 2020/2021.
+In this Repository you can find an Analysis of the data collected during the Sapienza Astrophysics Journal Club Meetings, Academic year 2020/2021.
 
 ## Meatings
 
