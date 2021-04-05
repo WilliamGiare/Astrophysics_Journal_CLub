@@ -18,7 +18,8 @@ In this Repository you can find an Analysis of the data collected during the Sap
 
 ## Our topics
 
-![image](https://user-images.githubusercontent.com/81431176/112900309-9bc09e80-90e3-11eb-9c2f-a2a262c0ba05.png)
+![image](https://user-images.githubusercontent.com/81431176/112901192-b9423800-90e4-11eb-80fe-7c6945a9b50c.png)
+
 
 
 ## Our Speakers
