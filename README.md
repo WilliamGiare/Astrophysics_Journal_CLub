@@ -6,22 +6,31 @@ In this Repository you can find an Analysis of the data collected during the Sap
 
 ### Audience enjoing the meetings
 
-![image](https://user-images.githubusercontent.com/81431176/112676905-55f8a180-8e69-11eb-98a7-4569bc0a3b16.png)
+![Unknown](https://user-images.githubusercontent.com/81431176/114282154-90099c00-9a42-11eb-989c-05129387339b.png)
+
 
 ### Total Meeting Duration
 
-![image](https://user-images.githubusercontent.com/81431176/112676967-6c9ef880-8e69-11eb-8063-a8eb9300e57d.png)
+![Unknown-1](https://user-images.githubusercontent.com/81431176/114282163-9861d700-9a42-11eb-90f3-4bd763018e0b.png)
+
 
 ### Duration (Academics vs PhD)
 
-![image](https://user-images.githubusercontent.com/81431176/112677014-7c1e4180-8e69-11eb-806f-0a0809f9e400.png)
+![Unknown-2](https://user-images.githubusercontent.com/81431176/114282166-a0217b80-9a42-11eb-9404-b4b8f63fc43d.png)
+
 
 ## Our topics
 
-![image](https://user-images.githubusercontent.com/81431176/112901192-b9423800-90e4-11eb-80fe-7c6945a9b50c.png)
+###Topics (Academics vs PhD)
 
+![Unknown-3](https://user-images.githubusercontent.com/81431176/114282172-aa437a00-9a42-11eb-85de-052dabac801f.png)
+
+###Topics (Theoretical vs Experimantal talks)
+
+![Unknown-4](https://user-images.githubusercontent.com/81431176/114282186-baf3f000-9a42-11eb-9081-9ed6eed2b129.png)
 
 
 ## Our Speakers
 
-![image](https://user-images.githubusercontent.com/81431176/112677042-850f1300-8e69-11eb-9d2d-969a45295455.png)
+![Unknown-5](https://user-images.githubusercontent.com/81431176/114282218-e080f980-9a42-11eb-8601-4be9916c2116.png)
+
