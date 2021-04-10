@@ -21,11 +21,11 @@ In this Repository you can find an Analysis of the data collected during the Sap
 
 ## Our topics
 
-###Topics (Academics vs PhD)
+### Topics (Academics vs PhD)
 
 ![Unknown-3](https://user-images.githubusercontent.com/81431176/114282172-aa437a00-9a42-11eb-85de-052dabac801f.png)
 
-###Topics (Theoretical vs Experimantal talks)
+### Topics (Theoretical vs Experimantal talks)
 
 ![Unknown-4](https://user-images.githubusercontent.com/81431176/114282186-baf3f000-9a42-11eb-9081-9ed6eed2b129.png)
 
