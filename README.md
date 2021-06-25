@@ -11,7 +11,7 @@ In this Repository you can find an Analysis of the data collected during the Sap
 
 
 
-### Total Meeting Duration
+### Meeting Duration
 
 ![Unknown-1](https://user-images.githubusercontent.com/81431176/123452470-bcaf6780-d5de-11eb-8735-8f4f76663c29.png)
 
@@ -22,21 +22,24 @@ In this Repository you can find an Analysis of the data collected during the Sap
 
 ### Topics (Academics vs PhD)
 
-![Unknown-4](https://user-images.githubusercontent.com/81431176/123452527-c933c000-d5de-11eb-9c80-e7b0390f6866.png)
+![Unknown-4](https://user-images.githubusercontent.com/81431176/123454051-6c390980-d5e0-11eb-9c2a-19a5641dfa26.png)
+
 
 
 
 ### Topics (Theoretical vs Experimantal talks)
 
 
-![Unknown-5](https://user-images.githubusercontent.com/81431176/123452569-d2bd2800-d5de-11eb-87b6-880048b4b0b5.png)
+![Unknown-5](https://user-images.githubusercontent.com/81431176/123454062-6f33fa00-d5e0-11eb-90fa-369fb36d4a3a.png)
+
 
 
 
 
 ## Our Speakers
 
-![Unknown-3](https://user-images.githubusercontent.com/81431176/123452589-d8b30900-d5de-11eb-8faf-f76d91ebcca9.png)
+![Unknown-3](https://user-images.githubusercontent.com/81431176/123454078-73f8ae00-d5e0-11eb-8afe-286c5ab5f0cf.png)
+
 
 
 
