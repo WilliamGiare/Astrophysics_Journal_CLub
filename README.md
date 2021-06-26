@@ -19,7 +19,8 @@ In the fiugure below we show the number of people joining each meeting (black do
 -  No significative differences in the audience are observed between first and second talks   
 
 
-![Unknown](https://user-images.githubusercontent.com/81431176/123452448-b8834a00-d5de-11eb-9222-89c81dca0323.png)
+![Unknown](https://user-images.githubusercontent.com/81431176/123516670-93a1dc00-d69d-11eb-9436-185c31fe5b4e.png)
+
 
 
 
@@ -30,9 +31,12 @@ In the fiugure below we show the time duration of each meeting with the blue dot
 - The avereged duration of the meetings with two speakers is: 
 - The averege duration of the meetings with one speaker is: 
 
-![Unknown-1](https://user-images.githubusercontent.com/81431176/123452470-bcaf6780-d5de-11eb-8735-8f4f76663c29.png)
+![Unknown-1](https://user-images.githubusercontent.com/81431176/123516676-9f8d9e00-d69d-11eb-83ef-97d143ac8037.png)
 
 
+### Duration Academics vs Students
+
+![Unknown-2](https://user-images.githubusercontent.com/81431176/123516687-b46a3180-d69d-11eb-8ee1-ddc6c141b7b4.png)
 
 
 ## Topics
@@ -48,7 +52,8 @@ Our meetings cover different branches of Astrophysics
 
 In the fiugure below we show the ratio Academics vs Students for the talks in the different research areas.
 
-![Unknown-4](https://user-images.githubusercontent.com/81431176/123454051-6c390980-d5e0-11eb-9c2a-19a5641dfa26.png)
+![Unknown-4](https://user-images.githubusercontent.com/81431176/123516700-bf24c680-d69d-11eb-8e53-5180a56f7dcb.png)
+
 
 
 ### Theoretical vs Experimantal talks
@@ -57,8 +62,7 @@ In the fiugure below we show the ratio Theorethical vs Experimental talks for th
 - Total Nuber of **Theoretical Talks**: 17
 - Total Number of **Experimental Talks**: 8
 
-![Unknown-5](https://user-images.githubusercontent.com/81431176/123454062-6f33fa00-d5e0-11eb-90fa-369fb36d4a3a.png)
-
+![Unknown-5](https://user-images.githubusercontent.com/81431176/123516715-ccda4c00-d69d-11eb-9e8c-93e7dad90d3a.png)
 
 
 ## Speakers
@@ -67,4 +71,5 @@ We tried to be as much inclusive as possible. In the fiugure below we show some 
 - Number of **Female Speakers**: 8 (5 Students and 3 Academics)
 - Number of **Male speakers**: 17 (9 Students and 8 Academics)
 
-![Unknown-3](https://user-images.githubusercontent.com/81431176/123454078-73f8ae00-d5e0-11eb-8afe-286c5ab5f0cf.png)
+![Unknown-3](https://user-images.githubusercontent.com/81431176/123516725-d663b400-d69d-11eb-9c54-eb8cd2e354df.png)
+
