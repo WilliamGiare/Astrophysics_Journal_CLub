@@ -3,11 +3,11 @@
 ## Overview of the Acadeimc Year 2020-2021
 
 In this Repository you can find an Analysis of the data collected during the Sapienza Astrophysics Journal Club Meetings, Academic year 2020/2021.
-The meetings are typically made of two talks with Academics (≥ postdocotral researchers) usually being the first speaker and students (≤ PhD students) the second ones. Somtimes the meetings consit ony of one talk (eihter Academics or Students).
-- Total Number of Meetings: 16
-- Metings with two Speakers: 
-- Meetings with one Speaker:
-- Total Number of Speakers:
+The meetings are typically made of two talks with Academics (≥ postdocotral researchers) usually being the first speaker and students (≤ PhD students) the second ones. Some meetings consit of ony one talk (eihter Academics or Students).
+- Total Number of Meetings: 15
+- Metings with two Speakers: 10
+- Meetings with one Speaker: 5
+- Total Number of Speakers: 25 (11 Academics and 14 Students)
 
 ## Meetings
 
@@ -36,12 +36,12 @@ In the fiugure below we show the time duration of each meeting with the blue dot
 
 
 ## Our topics
-Our meetings cover different branches of Astrophysics.
-- Total number of talks in the field of **Gravitation and Cosmology** : 10
-- Total number of talks in the field of **(Extra) Galactic Astrophysics** : 
-- Total number of talks in the field of **Planets** :
-- Total number of talks in the field of **Stellar Astrophysics** :
-- Total number of talks in the field of **Space science** :
+Our meetings cover different branches of Astrophysics
+- Total number of talks in the field of **Gravitation and Cosmology**: 10
+- Total number of talks in the field of **(Extra) Galactic Astrophysics**: 8
+- Total number of talks in the field of **Planets**: 4
+- Total number of talks in the field of **Stellar Astrophysics**: 1
+- Total number of talks in the field of **Space science**: 2
 
 
 ### Topics (Academics vs PhD)
@@ -54,8 +54,8 @@ In the fiugure below we show the ratio Academics vs Students for the talks in th
 ### Topics (Theoretical vs Experimantal talks)
 
 In the fiugure below we show the ratio Theorethical vs Experimental talks for the different research areas.
-- Total Nuber of **Theoretical Talks**:
-- Total Number of **Experimental Talks**:
+- Total Nuber of **Theoretical Talks**: 17
+- Total Number of **Experimental Talks**: 8
 
 ![Unknown-5](https://user-images.githubusercontent.com/81431176/123454062-6f33fa00-d5e0-11eb-90fa-369fb36d4a3a.png)
 
@@ -64,7 +64,7 @@ In the fiugure below we show the ratio Theorethical vs Experimental talks for th
 ## Speakers
 
 We tried to be as inclusive as possible. In the fiugure below we show some details on our speaker 
-- Number of **Female Speakers**
-- Number of **Male speakers**
+- Number of **Female Speakers**: 8 (5 Students and 3 Academmics)
+- Number of **Male speakers**: 17 (9 Students and 8 Academics)
 
 ![Unknown-3](https://user-images.githubusercontent.com/81431176/123454078-73f8ae00-d5e0-11eb-8afe-286c5ab5f0cf.png)
