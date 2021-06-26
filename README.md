@@ -4,7 +4,7 @@
 
 In this Repository you can find an Analysis of the data collected during the Sapienza Astrophysics Journal Club Meetings, Academic year 2020/2021.
 
-The meetings are typically made of two talks of 30 minuts each with Academics (≥ postdocotral researchers) usually being the first speakers and students (≤ PhD students) the second speakers. Anyway some meetings consit of ony one talk (hold eihter by Academics or Students).
+The meetings are typically made of two talks of 30 minuts each with Academics (≥ postdocotral researchers) usually being the first speakers and students (≤ PhD students) the second speakers. Anyway sometimes the speakers were both students or Academics as well als other meetings consit of only one talk (hold eihter by Academics or Students).
 - Total Number of **Meetings**: 15
 - Total Number of **Metings with two Speakers**: 10
 - Total Number of **Meetings with one Speaker**: 5
