@@ -27,17 +27,17 @@ In the fiugure below we show the number of people joining each meeting (black do
 
 ### Duration
 In the fiugure below we show the time duration of each meeting with the blue dots representing the meetings with two speakers and the red dots those with only one speaker. We also show the cumulative avereged time duration (yellow line) and its standard deviation (light yellow region).
-- **Cumulative averege duration**:56.0 ± 17.4
-- Averege duration of **meetings with two speakers**: 67.5 ± 7.2
-- Averege duration of **meetings with one speaker**: 33.0 ± 4.4
+- **Cumulative averege duration**: 56.0 ± 17.4 \[minutes\]
+- Averege duration of **meetings with two speakers**: 67.5 ± 7.2 \[minutes\]
+- Averege duration of **meetings with one speaker**: 33.0 ± 4.4 \[minutes\]
 
 ![Unknown-1](https://user-images.githubusercontent.com/81431176/123516676-9f8d9e00-d69d-11eb-83ef-97d143ac8037.png)
 
 
 #### Academics vs Students
 In the fiugure below we show the time duration of each talk with the blue dots representing the meetings by Academics and ttwo speakers and the red dots the meetings by Students. We also show the respective averege duration with its standard deviation.
-- Averege duration of **Talks by Academics**: 36.7 ± 4
-- Averege duration of **Talks by Students**: 31.5 ± 3.2
+- Averege duration of **Talks by Academics**: 36.7 ± 4 \[minutes\]
+- Averege duration of **Talks by Students**: 31.5 ± 3.2 \[minutes\]
 
 ![Unknown-2](https://user-images.githubusercontent.com/81431176/123516687-b46a3180-d69d-11eb-8ee1-ddc6c141b7b4.png)
 
