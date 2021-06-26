@@ -64,7 +64,7 @@ In the fiugure below we show the ratio Theorethical vs Experimental talks for th
 ## Speakers
 
 We tried to be as much inclusive as possible. In the fiugure below we show some details on our speaker 
-- Number of **Female Speakers**: 8 (5 Students and 3 Academmics)
+- Number of **Female Speakers**: 8 (5 Students and 3 Academics)
 - Number of **Male speakers**: 17 (9 Students and 8 Academics)
 
 ![Unknown-3](https://user-images.githubusercontent.com/81431176/123454078-73f8ae00-d5e0-11eb-8afe-286c5ab5f0cf.png)
