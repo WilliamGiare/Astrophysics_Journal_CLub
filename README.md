@@ -27,7 +27,7 @@ In the fiugure below we show the number of people joining each meeting (black do
 
 ### Duration
 In the fiugure below we show the time duration of each meeting with the blue dots representing the meetings with two speakers and the red dots those with only one speaker. We also show the cumulative avereged time duration (yellow line) and its standard deviation (light yellow region).
-- **Cumulative averege duration**: 56.0 ± 17.4 \[minutes\]
+- **Cumulative averege duration of Meetings**: 56.0 ± 17.4 \[minutes\]
 - Averege duration of **meetings with two speakers**: 67.5 ± 7.2 \[minutes\]
 - Averege duration of **meetings with one speaker**: 33.0 ± 4.4 \[minutes\]
 
