@@ -16,7 +16,7 @@ The meetings are typically made of two talks of 30 minuts each with Academics (â
 
 In the fiugure below we show the number of people joining each meeting (black dots) the audience fluctuations within the same meeting (error bars), the cumulative average number of spectators (green line) and its standard deviation (light green region). 
 
-- **Cumulative averege number of peeople in the audience**: 15.4 pm 3.0
+- **Cumulative averege number of peeople in the audience**: 15.4 Â± 3.0
 -  No significative differences in the audience are observed between first and second talks   
 
 
