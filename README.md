@@ -2,16 +2,16 @@
 
 >> Overview of the Academic Year 2020-2021 
 
-In this Repository you can find an Analysis of the data collected during the Sapienza Astrophysics Journal Club Meetings, Academic year 2020/2021.
+In this Repository you can find a Data Analysis of the Sapienza Astrophysics Journal Club Meetings, Academic year 2020/2021.
 
 ## Meetings
-The meetings are typically made of two talks of 30 minutes each with Academics (≥ postdocs) usually being the first speakers and students (≤ PhD students) the second speakers. Anyway, sometimes both the speakers were students or Academics as well as some meetings consist of only one talk (eihter by Academics or Students).
+The meetings were typically made of two talks of 30 minutes each with Academics (≥ postdocs) usually being the first speakers and students (≤ PhD students) the second speakers. Anyway, sometimes both the speakers were students or Academics as well as there were meetings with only one talk (held eihter by Academics or Students).
 - Total Number of **Meetings**: 16
 - Total Number of **Meetings with two Speakers**: 11
 - Total Number of **Meetings with one Speaker**: 5
 
 ### Audience
-In the figure below we show the number of people joining each meeting (black dots), the audience fluctuations within the same meeting (error bars) and the cumulative average number of people in the audience (green line) and its standard deviation (light green region). 
+In the figure below we show the number of people joining each meeting, the audience fluctuations within the same meeting (error bars) and the cumulative average number of people in the audience (green line) with its standard deviation (light green region). The blue (red) dots represent the meetings with two (one) speakers.
 - **Cumulative average number of peeople in the audience**: 15.5 ± 3.0
 - Average audience of **meetings with two speakers**: 16.0 ± 2.4
 - Average audience of **meetings with one speaker**: 14.6 ± 3.7
@@ -33,7 +33,7 @@ In the figure below we show the time duration of each meeting. The blue (red) do
 
 
 #### Academics vs Students
-In the figure below we show the time duration of each talk. The blue (red) dots represent the talks hold by Academics (Students). We also show their respective average time durations with the standard deviations.
+In the figure below we show the time duration of each talk. The blue (red) dots represent the talks held by Academics (Students). We also show their respective average time durations with the standard deviations.
 - Average time of **Talks by Academics**: 36.7 ± 4.5 \[minutes\]
 - Average time of **Talks by Students**: 31.6 ± 3.2 \[minutes\]
 
@@ -59,7 +59,7 @@ In the figyre below we show the fraction Academics / Students for the different 
 
 
 ### Theoretical vs Experimental talks
-In the figure below we show the fraction Theoretical vs Experimental talks in the different research areas.
+In the figure below we show the fraction Theoretical / Experimental talks for the different research areas.
 - Total Number of **Theoretical Talks**: 18
 - Total Number of **Experimental Talks**: 9
 
