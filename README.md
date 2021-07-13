@@ -46,7 +46,7 @@ Our meetings cover different branches of Astrophysics
 - Total number of talks in the field of **Stellar Astrophysics**: 1
 
 
-### Academics vs PhD
+### Academics vs Students
 In the figure below we show the fraction Academics / Students for the different research areas.
 
 ![Topic-1](https://user-images.githubusercontent.com/81431176/125455524-c32c39a0-d6be-44b2-9544-e20a5b83e239.png)
