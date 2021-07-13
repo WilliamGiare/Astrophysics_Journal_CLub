@@ -1,6 +1,6 @@
 # [Sapienza Astrophysics Journal club](https://sites.google.com/uniroma1.it/astrophysics-journal-club/home)
 
-A Data Analysis of the Sapienza Astrophysics Journal Club Meetings, Academic year 2020/2021.
+A Data Analysis for the Academic year 2020/2021.
 
 ## Meetings
 The meetings were typically made of two talks of 30 minutes each with Academics (≥ postdocs) usually being the first speakers and students (≤ PhD students) the second speakers. Anyway, sometimes both the speakers were students or Academics as well as there were meetings with only one talk (held either by Academics or Students).
