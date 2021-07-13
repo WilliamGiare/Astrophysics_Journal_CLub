@@ -17,7 +17,8 @@ In the figure below we show the number of people joining each meeting, the audie
 - Average audience of **meetings with one speaker**: 14.6 ± 3.7
 - No significative differences are observed in the audience between first and second talks
 
-![Unknown](https://user-images.githubusercontent.com/81431176/125453975-22f43935-9dbf-44c1-9dae-0180bf549086.png)
+![Audience](https://user-images.githubusercontent.com/81431176/125458533-096b286e-1668-42d0-b793-1ad8685261a1.png)
+
 
 
 
@@ -28,7 +29,7 @@ In the figure below we show the time duration of each meeting. The blue (red) do
 - Averege duration of **meetings with two speakers**: 67.2 ± 6.9 \[minutes\]
 - Averege duration of **meetings with one speaker**: 33.0 ± 4.4 \[minutes\]
 
-![Unknown-1](https://user-images.githubusercontent.com/81431176/125454540-5a025807-5784-4fce-bb4d-1656bddde341.png)
+![Time-1](https://user-images.githubusercontent.com/81431176/125454540-5a025807-5784-4fce-bb4d-1656bddde341.png)
 
 
 
@@ -37,7 +38,8 @@ In the figure below we show the time duration of each talk. The blue (red) dots 
 - Average time of **Talks by Academics**: 36.7 ± 4.5 \[minutes\]
 - Average time of **Talks by Students**: 31.6 ± 3.2 \[minutes\]
 
-![Unknown-2](https://user-images.githubusercontent.com/81431176/125454982-ed22063e-a2d8-406d-b080-9b28218790bb.png)
+![Time-2](https://user-images.githubusercontent.com/81431176/125458666-45de0fb1-22ae-4fa3-b331-bc3983a3bd9a.png)
+
 
 
 
@@ -54,7 +56,7 @@ Our meetings cover different branches of Astrophysics
 ### Academics vs PhD
 In the figyre below we show the fraction Academics / Students for the different research areas.
 
-![Unknown-4](https://user-images.githubusercontent.com/81431176/125455524-c32c39a0-d6be-44b2-9544-e20a5b83e239.png)
+![Topic-1](https://user-images.githubusercontent.com/81431176/125455524-c32c39a0-d6be-44b2-9544-e20a5b83e239.png)
 
 
 
@@ -63,17 +65,17 @@ In the figure below we show the fraction Theoretical / Experimental talks for th
 - Total Number of **Theoretical Talks**: 18
 - Total Number of **Experimental Talks**: 9
 
-![Unknown-5](https://user-images.githubusercontent.com/81431176/125455546-df1d9f6d-abe2-4839-bf33-c680ef015a27.png)
+![Topic-2](https://user-images.githubusercontent.com/81431176/125455546-df1d9f6d-abe2-4839-bf33-c680ef015a27.png)
 
 
 
 ## Speakers
 We tried to be as much inclusive as possible. In the figure below we provide details on our speakers 
-- Total Number of **Speakers**: 25 (10 Academics and 15 Students)
+- Total Number of **Speakers**: 27 (10 Academics and 15 Students)
 - Number of **Female Speakers**: 8 (5 Students and 3 Academics)
-- Number of **Male speakers**: 17 (10 Students and 7 Academics)
+- Number of **Male speakers**: 19 (12 Students and 7 Academics)
 
-![Unknown-3](https://user-images.githubusercontent.com/81431176/125455581-29985dcb-810e-4498-ba58-26c85d8050ba.png)
+![Speakers](https://user-images.githubusercontent.com/81431176/125455581-29985dcb-810e-4498-ba58-26c85d8050ba.png)
 
 
 
